@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Jaren Lynch\\AndroidStudioProjects\\xyz reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Jaren Lynch\\AndroidStudioProjects\\xyz reader\\XYZReader\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jaren Lynch\\AndroidStudioProjects\\MaterialReader\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jaren Lynch\\AndroidStudioProjects\\MaterialReader\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]
