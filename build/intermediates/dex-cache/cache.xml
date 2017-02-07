@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\volley_3a386398ceb5e686ce46c9def3bc1937657a56e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_32b0b887c71f5461e6b8a30f09d084c9144cfecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_c99d6c8c3f050ec207055c8cf841de75f586fb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_9a315d2da0c5b94732fed600b100239511e10fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_6cdd739cdc97d03e463a8b296639aab5e60a71cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_79ed799eeade910c17f7ea191dd20bbbf566dadd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\okio-1.6.0_7af2fc08a7a982068a222f0415b66920c54fb121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_db7b17df554ad165e2864a95d32ace0585aff8a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_f0ab085dfba760739f5ef159b320c7a476d07f14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_3bb43101ee08b6e4ee3000c24a2fcf37d03caea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_ffa805f64493d88ec23c71cf48b8355e92f5685e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.1.0_b526dd88d97d741b34d0b300b10855f124e723b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_123649fcab5dfb13f35e42578cb138ac8a487b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_2f0f7a8c5e8b7304c5198c257427c27d70b0f09d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.1.0_3f269464d84126aacc59ab4242131b41a6d63eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_534f0e51b112fdbee83bb02dbfe09ce2a056d96d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_1d7496492a3d74fdfd705ed6b6539b68fed7c125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Jaren Lynch\AndroidStudioProjects\MaterialReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_51443a0969310f1db27cca1b958795a69c8457fe.jar" />
+    </item>
+
+</items>

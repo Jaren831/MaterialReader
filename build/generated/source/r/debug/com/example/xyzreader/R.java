@@ -2820,7 +2820,7 @@ containing a value of this type.
         public static final int action_mode_close_button=0x7f0e0043;
         public static final int action_text=0x7f0e0093;
         public static final int action_up=0x7f0e0075;
-        public static final int actions=0x7f0e00a1;
+        public static final int actions=0x7f0e00a0;
         public static final int activity_chooser_view_content=0x7f0e0044;
         public static final int add=0x7f0e001e;
         public static final int alertTitle=0x7f0e0058;
@@ -2870,7 +2870,7 @@ containing a value of this type.
         public static final int home=0x7f0e0004;
         public static final int homeAsUp=0x7f0e0013;
         public static final int icon=0x7f0e0049;
-        public static final int icon_group=0x7f0e00a2;
+        public static final int icon_group=0x7f0e00a1;
         public static final int ifRoom=0x7f0e003c;
         public static final int image=0x7f0e0046;
         public static final int info=0x7f0e009e;
@@ -2903,10 +2903,10 @@ containing a value of this type.
         public static final int progress_circular=0x7f0e0006;
         public static final int progress_horizontal=0x7f0e0007;
         public static final int radio=0x7f0e005d;
-        public static final int recycler_view=0x7f0e0077;
+        public static final int recycler_view=0x7f0e0078;
         public static final int refresh=0x7f0e00aa;
         public static final int right=0x7f0e002d;
-        public static final int right_icon=0x7f0e00a0;
+        public static final int right_icon=0x7f0e00a2;
         public static final int right_side=0x7f0e009b;
         public static final int screen=0x7f0e0020;
         public static final int scroll=0x7f0e001c;
@@ -2944,7 +2944,7 @@ containing a value of this type.
         public static final int status_bar_latest_event_content=0x7f0e0096;
         public static final int submenuarrow=0x7f0e005e;
         public static final int submit_area=0x7f0e006f;
-        public static final int swipe_refresh_layout=0x7f0e0076;
+        public static final int swipe_refresh_layout=0x7f0e0079;
         public static final int tabMode=0x7f0e0011;
         public static final int text=0x7f0e00a6;
         public static final int text2=0x7f0e00a4;
@@ -2958,8 +2958,8 @@ containing a value of this type.
         public static final int title=0x7f0e004a;
         public static final int titleDividerNoCustom=0x7f0e0059;
         public static final int title_template=0x7f0e0057;
-        public static final int toolbar=0x7f0e0079;
-        public static final int toolbar_container=0x7f0e0078;
+        public static final int toolbar=0x7f0e0077;
+        public static final int toolbar_container=0x7f0e0076;
         public static final int top=0x7f0e002f;
         public static final int topPanel=0x7f0e0056;
         public static final int touch_outside=0x7f0e007c;
