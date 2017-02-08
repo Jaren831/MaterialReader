@@ -23,7 +23,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:adjustViewBounds="true"
-                    android:scaleType="fitEnd"/>
+                    android:scaleType="fitXY"/>
 
             </FrameLayout>
 
@@ -41,7 +41,7 @@
                     android:id="@+id/meta_bar"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/theme_accent"
+                    android:background="@color/colorAccent"
                     android:layout_gravity="bottom"
                     android:orientation="vertical"
                     android:paddingLeft="@dimen/detail_inner_horiz_margin"
@@ -57,7 +57,7 @@
                         android:layout_height="wrap_content"
                         android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                         android:fontFamily="Roboto"
-                        android:textColor="@color/theme_primary_dark"
+                        android:textColor="@color/colorPrimaryDark"
                         android:textStyle="bold"
                         android:textSize="@dimen/detail_title_text_size"
                         android:lineSpacingMultiplier="0.9" />
@@ -68,7 +68,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="Roboto"
-                        android:textColor="@color/theme_primary_dark" />
+                        android:textColor="@color/colorPrimaryDark" />
                 </LinearLayout>
 
                 <TextView
@@ -79,8 +79,8 @@
                     android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
                     android:layout_marginRight="@dimen/detail_inner_horiz_margin"
                     android:paddingBottom="@dimen/detail_body_bottom_margin"
-                    android:textColor="@color/theme_accent"
-                    android:textColorLink="@color/theme_primary"
+                    android:textColor="@color/colorAccent"
+                    android:textColorLink="@color/colorPrimary"
                     android:fontFamily="Roboto"
                     android:textSize="@dimen/detail_body_text_size"
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />

@@ -1,4 +1,4 @@
-#Mon Feb 06 21:57:20 PST 2017
+#Tue Feb 07 18:37:31 PST 2017
 base.0=C\:\\Users\\Jaren Lynch\\AndroidStudioProjects\\MaterialReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Jaren Lynch\\AndroidStudioProjects\\MaterialReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
